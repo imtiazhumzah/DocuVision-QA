@@ -60,6 +60,12 @@ Citation: Page 12, Caption under Figure 3.
 
 ---
 
+🌟 Future Improvements
+ - Add fine-tuned multimodal encoders for domain-specific PDFs
+ - Deploy Streamlit / Gradio app for interactive use
+ - Integrate graph-based retrieval for citations
+ - Support multilingual documents
+
 📧 Contact
 👤 Imtiaz Ali
 📩 Email: imtiazhumzah@gmail.com
