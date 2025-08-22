@@ -1,0 +1,20 @@
+
+---
+
+## 📦 requirements.txt  
+
+```txt
+llama-index
+pymupdf
+pytesseract
+opencv-python
+pillow
+transformers
+sentence-transformers
+faiss-cpu
+torch
+accelerate
+einops
+pandas
+numpy
+scikit-learn
